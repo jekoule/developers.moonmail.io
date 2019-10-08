@@ -1,0 +1,14 @@
+- ## Get Started
+    - [Overview](/{{route}}/{{version}}/overview)
+- ## Campaigns
+    - [List Campaigns](/{{route}}/{{version}}/account)
+    - [Create a campaign](/{{route}}/{{version}}/account)
+- ## Subscribers
+    - [List subscribers](/{{route}}/{{version}}/account)
+    - [Get a single subscriber](/{{route}}/{{version}}/account)
+- ## Account
+    - [Overview](/{{route}}/{{version}}/account)
+- ## Forms
+    - [Overview](/{{route}}/{{version}}/account)
+- ## Domains
+    - [Overview](/{{route}}/{{version}}/account)
